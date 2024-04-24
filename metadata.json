@@ -1,7 +1,7 @@
 {
     "name": "Flappy2024.com",
     "symbol": "FLAP",
-    "image": "TBD",
+    "image": "https://raw.githubusercontent.com/Kuroshades/flappy-data/master/logo.png",
     "description": "2024 Election Season is here, Choose your Candidate at https://Flappy2024.com",
     "extensions": {
         "website": "https://Flappy2024.com",
