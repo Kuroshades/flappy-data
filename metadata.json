@@ -1,0 +1,11 @@
+{
+    "name": "Flappy2024.com",
+    "symbol": "FLAP",
+    "image": "TBD",
+    "description": "2024 Election Season is here, Choose your Candidate at https://Flappy2024.com",
+    "extensions": {
+        "website": "https://Flappy2024.com",
+        "twitter": "https://twitter.com/Flappy2024",
+        "telegram": "https://t.me/flappy2024"
+    }
+}
